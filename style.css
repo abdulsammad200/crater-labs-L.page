@@ -2,7 +2,10 @@
 .nav-hero-sec {
   height: 700px;
   width: 100%;
-  background-image: url();
+  background-image: url(https://t4.ftcdn.net/jpg/01/99/10/23/360_F_199102302_LpSGaDWCp5WzgXz30956ZS3O7JAunkJy.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .nav-bar {
   height: 100px;
@@ -21,10 +24,11 @@
 }
 .costome-icon {
   font-size: 50px;
-  color: black;
+  color: white;
 }
 .text-1 {
   font-size: 13px;
+  color: #31376c;
 }
 .costome-a {
   text-decoration: none;
@@ -54,6 +58,9 @@
 .costome-icon-3 {
   font-size: 65px;
 }
+.text-2 {
+  color: #31376c;
+}
 /* <!-- nav and hero section ended --> */
 /* <!-- second  section start --> */
 .second-section {
@@ -67,6 +74,10 @@
 .box-2 {
   height: 400px;
   width: 30%;
+  background-image: url(https://onlinedegrees.sandiego.edu/wp-content/uploads/2023/04/What-Is-Computer-Vision_An-Introduction.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .costome-text-3 {
   font-size: 25px;
@@ -85,6 +96,10 @@
 .box-3 {
   height: 400px;
   width: 30%;
+  background-image: url(https://www.springboard.com/blog/wp-content/uploads/2020/08/learn-10-essential-predictive-analytics-techniques-scaled.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .box-4 {
   height: 320px;
@@ -103,12 +118,20 @@
 .box-6 {
   height: 430px;
   width: 30%;
+  background-image: url(https://img.freepik.com/free-photo/3d-computer-website-loading-speed-test_107791-17929.jpg?t=st=1709476138~exp=1709479738~hmac=e700a90aaa266cd499de9d6a1512ddf8ed4de0bd0de7b38552cdfa9b5c75c2be&w=1380);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /* <!-- fourth section ended --> */
 /* <!-- fifth section start --> */
 .fifth-section {
   height: 600px;
   width: 100%;
+  background-image: url(https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148630092.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .box-7 {
   height: 430px;
@@ -117,11 +140,16 @@
 .box-8 {
   height: 430px;
   width: 30%;
+  background-image: url(https://img.freepik.com/free-photo/art-concept-yellow-rocket-blue-plate-isolated-gradient-background_90220-1055.jpg?t=st=1709475959~exp=1709479559~hmac=584135a3c3787bde1eab6c59efab5e6ad30dc5ba8474a1dcdf74e6d44b53df10&w=996);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
 }
 /* <!-- fifth section ended --> */
 /* <!-- six section start --> */
 .six-section {
-  height: 300px;
+  height: 250px;
   width: 100%;
 }
 .box-9 {
@@ -139,7 +167,7 @@
 .gray-line {
   height: 2px;
   width: 65%;
-  background-color: gray;
+  background-color: rgb(187, 182, 182);
   margin: auto;
 }
 .box-10 {
@@ -154,5 +182,8 @@
 }
 .costome-icon-5 {
   font-size: 50px;
-  color: black;
+  color: #31376c;
+}
+.costome-text-4 {
+  color: gray;
 }
