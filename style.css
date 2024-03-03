@@ -104,3 +104,55 @@
   height: 430px;
   width: 30%;
 }
+/* <!-- fourth section ended --> */
+/* <!-- fifth section start --> */
+.fifth-section {
+  height: 600px;
+  width: 100%;
+}
+.box-7 {
+  height: 430px;
+  width: 30%;
+}
+.box-8 {
+  height: 430px;
+  width: 30%;
+}
+/* <!-- fifth section ended --> */
+/* <!-- six section start --> */
+.six-section {
+  height: 300px;
+  width: 100%;
+}
+.box-9 {
+  height: 70px;
+  width: 80%;
+  margin: auto;
+}
+.costome-a2 {
+  text-decoration: none;
+  font-size: 18px;
+}
+.costome-icon-4 {
+  font-size: 30px;
+}
+.gray-line {
+  height: 2px;
+  width: 65%;
+  background-color: gray;
+  margin: auto;
+}
+.box-10 {
+  height: 100px;
+  width: 70%;
+  margin: auto;
+}
+.box-11 {
+  height: 70px;
+  width: 70%;
+  margin: auto;
+}
+.costome-icon-5 {
+  font-size: 50px;
+  color: black;
+}
