@@ -1,0 +1,92 @@
+/* <!-- nav and hero section start --> */
+.nav-hero-sec {
+  height: 700px;
+  width: 100%;
+  background-image: url();
+}
+.nav-bar {
+  height: 100px;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+.nav-1 {
+  height: 70px;
+  width: 20%;
+}
+.nav-2 {
+  height: 50px;
+  width: 20%;
+}
+.costome-icon {
+  font-size: 50px;
+  color: black;
+}
+.text-1 {
+  font-size: 13px;
+}
+.costome-a {
+  text-decoration: none;
+  font-size: 25px;
+}
+.costome-icon-2 {
+  font-size: 30px;
+}
+.hero-text {
+  height: 500px;
+  width: 50%;
+  margin: auto;
+}
+.costome-text-1 {
+  font-size: 60px;
+}
+.costome-text-2 {
+  font-size: 28px;
+}
+.btn-costome {
+  height: 60px;
+  width: 220px;
+  border-radius: 50px;
+  border: none;
+  background: linear-gradient(to right, rgb(241, 180, 66), rgb(230, 103, 124));
+}
+.costome-icon-3 {
+  font-size: 65px;
+}
+/* <!-- nav and hero section ended --> */
+/* <!-- second  section start --> */
+.second-section {
+  height: 600px;
+  width: 100%;
+}
+.box-1 {
+  height: 300px;
+  width: 30%;
+}
+.box-2 {
+  height: 400px;
+  width: 30%;
+}
+.costome-text-3 {
+  font-size: 25px;
+}
+.btn-costome-2 {
+  height: 50px;
+  width: 180px;
+  border-radius: 50px;
+  border: none;
+  background: linear-gradient(to right, rgb(241, 180, 66), rgb(230, 103, 124));
+}
+.third-section {
+  height: 600px;
+  width: 100%;
+}
+.box-3 {
+  height: 400px;
+  width: 30%;
+}
+.box-4 {
+  height: 320px;
+  width: 30%;
+}
